@@ -44,11 +44,11 @@ export const Proyects = () => {
                     <FaRegFilePdf className="w-5 h-5" />
                   </div>
                 </div>
-                {/* <div className='mt-4'>
-                  <Link target="_blank" href="#" className="text-sm text-muted-foreground hover:text-foreground" prefetch={false}>
+                 <div className='mt-4'>
+                  <Link target="_blank" href="https://github.com/JoseArmandoSalaM/RM" className="text-sm text-muted-foreground hover:text-foreground" prefetch={false}>
                     View Project
                   </Link>
-                </div> */}
+                </div> 
               </div>
               <div className='bg-div px-6 py-4 items-center justify-between shadow-lg rounded'>
                 <div>
