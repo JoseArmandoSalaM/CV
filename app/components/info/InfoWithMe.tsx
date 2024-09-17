@@ -10,8 +10,9 @@ export const InfoWithMe = () => {
           <section>
             <h2 className="text-lg font-bold mb-2">Acerca de mi</h2>
             <p className="text-muted-foreground">
-            Desarrollador backend apasionado por crear soluciones y resolver todo tipo de problemas. Hábil en lenguajes y frameworks como Laravel,Nextjs,Nestjs y base de datos como MySql, PostgreSQL. Me encanta la construcción de aplicaciones así como también construir APIs. Con poca experiencia en frontend (Nextjs, Vue.js). Busco oportunidades para trabajar en equipos y colaborar en proyectos.
-            </p>
+            Soy desarrollador back-end con experiencia en frameworks como NestJS, Laravel (mi principal herramienta en los últimos años), Yii y por el lado del Front-end Next.js, Vue. Mi pasión por el desarrollo del lado del servidor me impulsa a buscar nuevos desafíos y oportunidades de crecimiento en equipos dinámicos. Estoy siempre dispuesto a aprender nuevas tecnologías y colaborar en proyectos que me permitan aportar mis conocimientos y habilidades.
+
+           </p>
           </section>
           <section>
             <h2 className="text-lg font-bold mb-2">Experiencia</h2>
