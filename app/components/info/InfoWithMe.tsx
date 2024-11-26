@@ -30,7 +30,7 @@ export const InfoWithMe = () => {
               </div>
               <div>
                 <h3 className="text-base font-bold">Desarrollo de eccomerce</h3>
-                <p className="text-sm text-muted-foreground">Novedadez Luzma. | 20/05/2024 - Actualidad.</p>
+                <p className="text-sm text-muted-foreground">Novedadez Luzma. | 20/05/2024 - 15/09/2024</p>
                 <ul className="list-disc pl-4 space-y-2 text-sm text-muted-foreground">
                   <li>
                    Sigo en desarrollo de la tienda online en base a las necesidades del cliente
