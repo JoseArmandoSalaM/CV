@@ -10,7 +10,7 @@ export const InfoWithMe = () => {
           <section>
             <h2 className="text-lg font-bold mb-2">Acerca de mi</h2>
             <p className="text-muted-foreground">
-            Soy un desarrollador back-end con experiencia en algunos frameworks como NestJS, Laravel (mi principal herramienta en los últimos años), Yii y por el lado del Front-end Next.js, Vue. Tengo una pasión en el desarrollo por el desarrollo del lado del servidor aunque me a tocado trabajar tambien con el frontend y a sido muy interesante. Me gusta resolver problemas de todo tipo y siempre estoy dispuesto a aprender nuevas tecnologías y colaborar a equipos con mis conocimientos y habilidades.
+            Soy un desarrollador back-end con experiencia en algunos frameworks como NestJS, Laravel (mi principal herramienta en los últimos años), Yii y por el lado del Front-end Next.js, Vue. Tengo una pasión en el desarrollo por el lado del servidor aunque me a tocado trabajar tambien con el frontend y a sido muy interesante. Me gusta resolver problemas de todo tipo y siempre estoy dispuesto a aprender nuevas tecnologías y colaborar a equipos con mis conocimientos y habilidades.
 
            </p>
           </section>
